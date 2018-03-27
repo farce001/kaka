@@ -2,6 +2,7 @@ ni haoa
    hhhhhhfggggg
 
 <<<<<<< HEAD
+<<<<<<< HEAD
   good
 
 
@@ -9,3 +10,6 @@ shibushi
 =======
   good
 >>>>>>> parent of 4b8a69d... shibushi
+=======
+  goodshibushi
+>>>>>>> parent of 5168b9e... duibudui
